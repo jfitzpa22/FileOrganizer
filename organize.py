@@ -148,7 +148,7 @@ def organize_folder(folder_path:str)->None:
 
 def main():
     parser = ArgumentParser(
-        description="Organize files in a given folder by type."
+        description="Moves files into created sub-folders according to their type."
     )
 
     parser.add_argument(
