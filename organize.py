@@ -1,13 +1,12 @@
 """
 This script organizes a directory.
-It identifies the types of files in
-a given directory and moves the
-contents into broadly-named sub
-directories, e.g., it puts tar and
-zip files into a "Archives" sub
-directory. The script uses a switch
-statement, which requires python3.10
-at minimum.
+It identifies the types of files
+therein and moves them into
+broadly-named sub directories, e.g.,
+it puts tar and zip files into an
+"Archives" sub directory. The script
+uses a switch statement, which requires
+python3.10 at minimum.
 """
 
 
